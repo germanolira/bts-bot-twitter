@@ -45,6 +45,9 @@ python3 twitterbot.py
 
 Se tudo der certo, você verá no terminal o nome do arquivo e embaixo /\ + o nome do arquivo, agora abra o seu perfil no Twitter e veja se deu tudo certo!
 
-## Autor
+# Autor
+
+### Germano Lira
+
 - Github: [@germanolira](https://www.github.com/germanolira)
 - Instagram: [@germanoliradev](https://www.instagram.com/germanoliradev)
