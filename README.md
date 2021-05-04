@@ -1,6 +1,7 @@
 <img src="https://i.pinimg.com/originals/36/b5/79/36b57942fadf879523a1bc43e635c045.jpg" />
 
 <h1 align="center">BTS Bot 🤖</h1>
+
 ## Um bot no Twitter feito para postar fotos do BTS todos os dias
 
 ## 🚀 Depedências
