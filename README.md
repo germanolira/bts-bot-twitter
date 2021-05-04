@@ -7,7 +7,7 @@
 
 Tenha certeza de que tenha instalado o [Python3](https://www.python.org/downloads/)
 
-Rode no terminal, dentro da pasta
+Rode no terminal dentro da pasta
 
 ```sh
 pip install -r requirements.txt
